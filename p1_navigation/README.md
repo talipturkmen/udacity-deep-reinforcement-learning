@@ -79,7 +79,7 @@ Plot showing the score per episode over all the episodes. The environment was so
 
 ### Dependencies
 
-Use the `requirements.txt` file (in the [main](https://github.com/talipturkmen/udacity-deep-reinforcement-learning/p1_navigation) folder) to install the required dependencies via `pip`.
+Use the `requirements.txt` file to install the required dependencies via `pip`.
 
 ```
 pip install -r requirements.txt
