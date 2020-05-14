@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/talipt/robotics/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/talipt/robotics/src/Project-1/lla2enu/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
