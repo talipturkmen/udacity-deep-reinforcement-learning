@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unity environment builds (downloaded from Udacity, not committed)
+p*/Banana_Linux/
+p*/Reacher_Linux*/
+p*/Tennis_Linux*/
+*.app/
